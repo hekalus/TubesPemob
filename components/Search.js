@@ -44,7 +44,7 @@ const Search = () => {
           color: darkTheme ? "white" : "black",
         }}
         onChangeText={(text) => handleSearch(text)}
-        placeholder="Search for news"
+        placeholder="Cari berita"
         placeholderTextColor={darkTheme ? "white" : "grey"}
       />
       <View style={styles.searchResults}>

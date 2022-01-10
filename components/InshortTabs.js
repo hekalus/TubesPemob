@@ -12,8 +12,8 @@ export default function InshortTabs() {
   const { index, setIndex } = useContext(NewsContext);
 
   const [routes] = useState([
-    { key: "first", title: "Discover" },
-    { key: "second", title: "News" },
+    { key: "first", title: "Menu" },
+    { key: "second", title: "Berita" },
   ]);
 
   const renderScene = SceneMap({

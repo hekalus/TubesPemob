@@ -3,24 +3,21 @@
 export const categories = [
   {
     code: "",
-    pic: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bogor_coa.png",
+    pic: "https://img.icons8.com/fluent/96/000000/hard-working.png",
     name: "business",
   },
   {
     code: "",
-    pic: "http://3.bp.blogspot.com/-VYgIc8W36rA/UETGZ0ixmRI/AAAAAAAAGwM/qVncHuLU-d4/s1600/LOGO+KOTA+BANDUNG.png",
+    pic: "https://img.icons8.com/fluent/96/000000/movie-projector.png",
     name: "entertainment",
   },
   {
     code: "",
-    pic: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Coat_of_arms_of_Bekasi.png",
+    pic: "https://img.icons8.com/fluent/96/000000/stethoscope.png",
     name: "health",
   },
   {
-    pic: "https://seeklogo.com/images/P/pemda-garut-logo-242D0CCF1C-seeklogo.com.png",
-    name: "Garut",
-  },
-  {
+    code: "",
     pic: "https://img.icons8.com/fluent/96/000000/microscope.png",
     name: "science",
   },
@@ -36,30 +33,6 @@ export const categories = [
 
 export const country = [
   {
-    code: "in",
-    name: "India",
-  },
-  {
-    code: "us",
-    name: "USA",
-  },
-  {
-    code: "au",
-    name: "Australia",
-  },
-  {
-    code: "ru",
-    name: "Russia",
-  },
-  {
-    code: "fr",
-    name: "France",
-  },
-  {
-    code: "gb",
-    name: "United Kingdom",
-  },
-  {
   code: "id",
   name: "Indonesia",
 },
@@ -69,22 +42,22 @@ export const sources = [
   {
     id: "detik.com",
     name: "Detik.com",
-    pic: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_Kompasdotcom.png",
+    pic: "https://1.bp.blogspot.com/-kHu49VPf9wE/YCJ1Q6P68ZI/AAAAAAAAImM/84neu8-v6084-wcxUOkDwHbo-l740vfTwCLcBGAsYHQ/s600/Detikcom.png",
   },
   {
     id: "suara.com",
     name: "Suara",
-    pic: "https://4.bp.blogspot.com/-5pyHguCUj-I/W8nZfhFeKkI/AAAAAAAAANA/uSNifRnpC7Y9YXO0V1-4187UlPaGSAUEwCPcBGAYYCw/s1600/Lowongan%2BKerja%2BTerbaru%2BTribun%2BNetwork.png",
+    pic: "https://javara.co.id/wp-content/uploads/2019/12/Suara.com-Logo.jpg",
   },
   {
     id: "tribunnews.com",
-    name: "Fox News",
-    pic: "https://1.bp.blogspot.com/-kHu49VPf9wE/YCJ1Q6P68ZI/AAAAAAAAImM/84neu8-v6084-wcxUOkDwHbo-l740vfTwCLcBGAsYHQ/s600/Detikcom.png",
+    name: "Tribun",
+    pic: "https://kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-Tribun-by-kampungdesigner.jpg",
   },
   {
     id: "merdeka.com",
-    name: "Google News",
-    pic: "https://kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-Liputan6-by-kampungdesigner.jpg",
+    name: "Merdeka",
+    pic: "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/partner/208/34_208_1463712141_56250944_f.jpg",
   },
 ];
 

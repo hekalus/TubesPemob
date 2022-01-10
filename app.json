@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "inshorts-clone",
-    "slug": "inshorts-clone",
+    "name": "indo-news",
+    "slug": "indo-news",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f7f7f7"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,9 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#f7f7f7"
       },
-      "package": "com.roadsidecoder.inshortsclone"
+      "package": "com.tubespemob.indonews"
     },
     "web": {
       "favicon": "./assets/favicon.png"
